@@ -1,21 +1,49 @@
 # Салам, мен Исхак! 👋
 
-### Full-stack иштеп чыгуучу 💻
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Iskhak%20I.%20👋&fontSize=70" />
+</div>
 
-- 🔭 Мен азыр **Vue.js** жана **Django** долбоорлорунун үстүндө иштеп жатам.
-- 🌱 Жаңы технологияларды, өзгөчө тармактык коопсуздукту үйрөнүүгө кызыгам.
-- ⚡ Бош убактымда код жазганды жана жаңы инструменттерди сынап көргөндү жакшы көрөм.
+## 🚀 Мен жөнүндө
+Мен — **Full-stack иштеп чыгуучумун**. Сапаттуу веб-тиркемелерди түзүүгө жана жаңы технологияларды өздөштүрүүгө кызыгам.
 
-### Тилдер жана Инструменттер:
+* 🔭 **Учурда:** Татаал веб-платформаларды жана маалымат базаларын иштеп чыгуудамын.
+* 🧠 **Үйрөнүүдө:** Тармак коопсуздугу жана сервердик архитектура.
+* 💬 **Суроолор боюнча:** Python, JavaScript же веб-технологиялар тууралуу сүйлөшүүгө даярмын.
+
+---
+
+### 🛠 Технологиялык стек
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,vue,python,django,html,css,git,github,vercel,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,vue,html,css,bootstrap,postgres,github,vercel,linux,pycharm" />
+  </a>
 </p>
 
-### GitHub Статистикасы:
-![Iskhak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iskhak203&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iskhak203&layout=compact&theme=tokyonight)
+---
 
-### Байланышуу:
+### 📊 Менин GitHub активдүүлүгүм
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iskhak203&show_icons=true&type=svg&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iskhak203&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iskhak203&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 Мени менен байланышуу:
 <p align="left">
-<a href="https://t.me/+505Z_3L_UaZmMmWy" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/+505Z_3L_UaZmMmWy" target="blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://github.com/Iskhak203" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Iskhak203/Iskhak203/output/github-contribution-grid-snake.svg" alt="Snake animation" />
