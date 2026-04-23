@@ -38,7 +38,7 @@
 
 ### 📫 Мени менен байланышуу:
 <p align="left">
-<a href="https://t.me/+505Z_3L_UaZmMmWy" target="blank">
+<a href="https://t.me/+5OSZ_3L_UaZmMWQy" target="blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://github.com/Iskhak203" target="blank">
